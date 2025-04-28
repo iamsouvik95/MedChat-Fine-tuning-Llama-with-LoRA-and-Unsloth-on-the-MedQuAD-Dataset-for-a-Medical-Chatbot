@@ -15,6 +15,8 @@ Optimize Training with Unsloth:
 Unsloth is a tool designed to optimize the training pipeline, particularly when dealing with large-scale models and datasets. It helps in speeding up the fine-tuning process while maintaining model performance.
 
 Fine-tune Llama Model:
+![Screenshot (549) - Copy](https://github.com/user-attachments/assets/4547407a-2c34-420a-8d2b-7118840c840f)
+
 
 Load the Llama model from Hugging Face.
 
